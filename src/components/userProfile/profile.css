@@ -1,0 +1,25 @@
+.container_profile{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
+    border: 2px solid #c2a410;
+    border-radius: 5px;
+    /* background-color: rgb(233, 199, 158); */
+    /* color: #c2a410; */
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+
+}
+.profile_img{
+    padding: 10px;
+}
+.profile_img img{
+    border-radius: 50%;
+}
